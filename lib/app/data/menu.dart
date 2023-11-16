@@ -1,0 +1,1 @@
+enum Menu { cars, home, bike}
